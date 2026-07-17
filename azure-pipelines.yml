@@ -19,5 +19,5 @@ steps:
   inputs:
     azureSubscription: 'Azure-CICD-ServiceConnection'
     appType: 'webAppLinux'
-    appName: 'Azure-CICD-ServiceConnection'
+    appName: 'khushi-cicd-demo'
     package: '.'
